@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "woot:homestone",
+      "category": "Misc",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:icon": "woot_homestone",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

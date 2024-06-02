@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "woot:homestone"
+    },
+    "tags": ["crafting_table"],
+    "key": {
+      "S": {
+        "item": "smooth_stone"
+      },
+      "L": {
+        "item": "lapis_block"
+      }
+    },
+    "pattern": ["SLS", "LSL", "LLL"],
+    "result": {
+      "item": "woot:homestone",
+      "count": 1
+    }
+  }
+}

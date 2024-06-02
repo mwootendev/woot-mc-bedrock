@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "woot:homestone",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.enchantedBook"
+      }
+    },
+    "components": {
+      "minecraft:icon": "teleport_item",
+      "minecraft:use_duration": 32,
+      "minecraft:use_animation": "spyglass",
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation_modifier": "normal",
+        "can_always_eat": true,
+        "using_converts_to": "minecraft:air"
+      }
+    }
+  }
+}
