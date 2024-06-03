@@ -3,7 +3,7 @@
   "header": {
     "name": "Homestone Resource Pack",
     "description": "Homestone Resource Pack",
-    "uuid": "2d7ed858-97eb-48a0-b180-7c80d1ce9a48",
+    "uuid": "89149297-f443-44bd-8684-844ff1d0d988",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 30]
   },
@@ -11,13 +11,13 @@
     {
       "description": "Homestone Addon Resources",
       "type": "resources",
-      "uuid": "503fe660-142b-46a2-8fec-34a54e944720",
+      "uuid": "b6bc44e4-34c2-4e5d-9254-77c848661667",
       "version": [1, 0, 0]
     }
   ],
   "dependencies": [
     {
-      "uuid": "14e467b4-e3aa-49d3-8352-f8439fd7b2ee",
+      "uuid": "788b1177-1ee6-4f4b-a99f-976ffcaf8645",
       "version": [1, 0, 0]
     }
   ]

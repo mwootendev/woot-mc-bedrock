@@ -22,9 +22,9 @@ setupEnvironment(path.resolve(__dirname, ".env"));
 const projectName = getOrThrowFromProcess("PROJECT_NAME");
 
 const bundleTaskOptions: BundleTaskParameters = {
-  entryPoint: path.join(__dirname, "./scripts/main.ts"),
+  entryPoint: path.join(__dirname, `./scripts/${projectName}/main.ts`),
   external: ["@minecraft/server", "@minecraft/server-ui"],
-  outfile: path.resolve(__dirname, "./dist/scripts/main.js"),
+  outfile: path.resolve(__dirname, `./dist/scripts/${projectName}/main.js`),
   minifyWhitespace: false,
   sourcemap: true,
   outputSourcemapPath: path.resolve(__dirname, "./dist/debug"),

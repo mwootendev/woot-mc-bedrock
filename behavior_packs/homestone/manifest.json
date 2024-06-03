@@ -3,7 +3,7 @@
   "header": {
     "name": "Homestone Behavior Pack",
     "description": "Homestone Addon Behavior Pack",
-    "uuid": "14e467b4-e3aa-49d3-8352-f8439fd7b2ee",
+    "uuid": "788b1177-1ee6-4f4b-a99f-976ffcaf8645",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 30]
   },
@@ -12,7 +12,7 @@
       "description": "Homestone Scripts",
       "language": "javascript",
       "type": "script",
-      "uuid": "7c7e693f-99f4-41a9-95e0-1f57b37e1e12",
+      "uuid": "2c274a5f-febe-412a-a4d4-81fa1f305d39",
       "version": [1, 0, 0],
       "entry": "scripts/homestone/main.js"
     }
@@ -23,7 +23,7 @@
       "version": "1.8.0"
     },
     {
-      "uuid": "2d7ed858-97eb-48a0-b180-7c80d1ce9a48",
+      "uuid": "89149297-f443-44bd-8684-844ff1d0d988",
       "version": [1, 0, 0]
     }
   ]
